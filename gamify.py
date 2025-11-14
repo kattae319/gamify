@@ -1,5 +1,5 @@
 #https://www.cs.toronto.edu/~guerzhoy/180/proj/gamify/gamify.pdf
-#September 23, 2025
+#October 2, 2025
 cur_hedons = 0
 cur_health = 0
 cur_time = 0
